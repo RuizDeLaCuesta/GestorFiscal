@@ -1,4 +1,4 @@
-# GestorFiscal --> Tribut_ia_
+# GestorFiscal --> Tribut*ia*
 
 Software de gestión y automatización fiscal para autónomos y PYMEs.
 
@@ -8,11 +8,11 @@ Software de gestión y automatización fiscal para autónomos y PYMEs.
 
 ## ¿Qué es este proyecto?
 
-Tribut_ia_ es una aplicación de escritorio pensada para que autónomos y pequeñas empresas puedan gestionar su actividad fiscal de forma sencilla: emitir facturas, registrar gastos deducibles y tener siempre visible cuánto IVA han cobrado y cuánto han pagado.
+Tribut*ia* es una aplicación de escritorio pensada para que autónomos y pequeñas empresas puedan gestionar su actividad fiscal de forma sencilla: emitir facturas, registrar gastos deducibles y tener siempre visible cuánto IVA han cobrado y cuánto han pagado.
 
-El problema que resuelve es concreto: un autónomo que trabaja solo no tiene tiempo ni conocimientos contables para llevar un control riguroso de su fiscalidad. Tribut_ia_ centraliza toda esa información en una base de datos estructurada y ofrece consultas útiles para preparar las declaraciones trimestrales.
+El problema que resuelve es concreto: un autónomo que trabaja solo no tiene tiempo ni conocimientos contables para llevar un control riguroso de su fiscalidad. Tribut*ia* centraliza toda esa información en una base de datos estructurada y ofrece consultas útiles para preparar las declaraciones trimestrales.
 
-A futuro, Tribut_ia_ incorporará un asistente de IA especializado en gestión y asesoría fiscal con capacidad de actuar como asesor privado del cliente de cara a dudas, modelos a presentar, trámites fiscales y/o burocráticos on-line... 
+A futuro, Tribut*ia* incorporará un asistente de IA especializado en gestión y asesoría fiscal con capacidad de actuar como asesor privado del cliente de cara a dudas, modelos a presentar, trámites fiscales y/o burocráticos on-line... 
 Además, la creación de una nueva sección de tesorería en la que poder conectar cuentas bancarias de profesionales y empresas y ofrecer previsión y predicción de gastos, deducciones, sanciones y optimizaciones mediante modelos predictivos de machine learning y quantum finance básicos (regresión lineal, XGBoost...).
 Por último, se hará una última versión de la startup en la que se recopilarán accesos directos a portales mercados financieros y noticias mediante scrapping y se harán recomendaciones en tiempo real, diarias, semanales, mensuales y anuales de inversión en base a las predicciones de capital disponible después de impuestos del propio profesional o empresa. Para invertir, se dará acceso directo vía API y paneles embebidos a plataformas tales como eToro, Revolut o MyInvestor.
 
