@@ -37,5 +37,18 @@ El otro perfil relevante es el del ingeniero de software que trabaja en producto
 Lo que diferencia a este tipo de profesional de un desarrollador genérico es el conocimiento del dominio financiero: entiende cómo funciona una transferencia SEPA, qué es el KYC, cómo se regulan los servicios de pago en Europa o cómo se integran APIs de mercados financieros. Esa combinación de ingeniería y conocimiento de negocio es lo que hace valioso al perfil.
 Habilidades que destacan: Java o Kotlin para backend, Python para análisis y automatización, SQL, conocimiento de regulación financiera europea (PSD2, MiFID II), experiencia con APIs REST y microservicios.
 
+Perfiles profesionales de referencia
+Perfil 1 — Shashank Vemuri
+GitHub: github.com/shashankvemuri
+Desarrollador con un repositorio público de más de 150 programas en Python orientados al análisis cuantitativo de mercados financieros. Su trabajo cubre desde la descarga y manipulación de datos de mercado hasta la construcción de herramientas de backtesting, screening de acciones por análisis técnico y fundamental, simulación de estrategias de trading y análisis de carteras. Todo el código está en Python y hace uso de librerías como pandas, numpy, matplotlib y APIs financieras como Yahoo Finance.
+Es un perfil que representa exactamente el punto de partida más accesible para alguien que quiere combinar programación con finanzas: proyectos concretos, código limpio, bien documentado y orientado a resolver problemas reales de análisis financiero.
+Habilidades destacadas: Python, pandas, análisis técnico y fundamental, APIs financieras, backtesting, visualización de datos.
+
+Perfil 2 — Dominic O'Kane
+GitHub: github.com/domokane/FinancePy
+Profesor en EDHEC Business School y creador de FinancePy, una librería open source en Python para la valoración y gestión del riesgo de derivados financieros: renta fija, renta variable, FX y crédito. La librería está orientada a analistas cuantitativos, gestores de riesgo y gestores de carteras que necesitan calcular precios o medir sensibilidades de productos derivados.
+Su perfil representa el extremo más avanzado del cruce entre tecnología y finanzas: alguien con formación financiera profunda (CFA, derivados, modelos de valoración) que además construye herramientas de software de calidad profesional y las pone a disposición de la comunidad. Es el tipo de perfil al que se puede aspirar a largo plazo combinando una base técnica sólida con conocimiento financiero especializado.
+Habilidades destacadas: Python, Numba, pricing de derivados, gestión de riesgo, renta fija, modelos cuantitativos, open source.
+
 Conclusión
 El sector de tecnología financiera en España está en expansión. Los bancos tradicionales invierten masivamente en perfiles tech y las fintech crecen como alternativa. El perfil más valioso en este contexto no es ni el puramente financiero ni el puramente técnico: es el que sabe hacer las dos cosas. Eso es exactamente lo que justifica estudiar DAM con la vista puesta en las finanzas.
