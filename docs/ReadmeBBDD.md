@@ -1,6 +1,6 @@
-Documentación del diseño de la base de datos — Tributi*ia*
+Documentación del diseño de la base de datos — Tribut*ia*
 Descripción general
-Tributi*ia* es una aplicación de gestión fiscal para autónomos y PYMEs. Su base de datos centraliza toda la información necesaria para controlar la actividad económica del negocio: clientes, facturación, gastos deducibles y categorías de gasto.
+Tribut*ia* es una aplicación de gestión fiscal para autónomos y PYMEs. Su base de datos centraliza toda la información necesaria para controlar la actividad económica del negocio: clientes, facturación, gastos deducibles y categorías de gasto.
 El diseño parte de un análisis de las necesidades reales de un autónomo en España: emitir facturas, registrar gastos, calcular el IVA a declarar y tener visibilidad sobre su situación fiscal trimestral.
 
 Decisiones de diseño
