@@ -10,7 +10,25 @@ Software de gestión y automatización fiscal para autónomos y PYMEs.
 
 Tribut*ia* es una aplicación de escritorio pensada para que autónomos y pequeñas empresas puedan gestionar su actividad fiscal de forma sencilla: emitir facturas, registrar gastos deducibles y tener siempre visible cuánto IVA han cobrado y cuánto han pagado.
 
-El problema que resuelve es concreto: un autónomo que trabaja solo no tiene tiempo ni conocimientos contables para llevar un control riguroso de su fiscalidad. Tribut*ia* centraliza toda esa información en una base de datos estructurada y ofrece consultas útiles para preparar las declaraciones trimestrales.
+El problema esencial que resuelve es concreto: un autónomo que trabaja solo no tiene tiempo ni conocimientos contables para llevar un control riguroso de su fiscalidad. Tribut*ia* centraliza toda esa información en una base de datos estructurada y ofrece consultas útiles para preparar las declaraciones trimestrales.
+
+En esta primera etapa del proyecto, mientras forma parte de mi entrega intermodular de primer curso; sólo abarco las secciones respectivas a las asignaturas de Bases de datos, Entornos de desarrollo y Empleabilidad. Sin embargo, en próximas fases dispondrá de una aplicación de escritorio y/o web completas.
+En un futuro no muy lejano, Tribut*ia* pasará de un simple programa para la gestión fiscal básica a una plataforma de optimización y apoyo fiscal y financiero completa e hiperutilitaria. 
+Dentro de dichas versiones se verán elementos tales como:
+ - ChatBot de IA generativa con acceso en tiempo real a tesorería, trimestres, facturas previsibles y tiempos de entrega de modelos
+ - Panel de personalización mediante skills, artefactos, necesidades y objetivos personales y/o empresariales
+ - Sistema de predicción responsable de gastos, ingresos y beneficios
+ - Sistema de recomendación de inversión en mercados financieros basado en la información en tiempo real del panel de control y el sistema de predicción responsable
+ - Panel para la administración y ejecución de dichas u otras inversiones en los mercados financieros
+
+Para llevar estas funcionalidades acabo se emplearan las siguientes herramientas y sistemas digitales:
+ - Desktop -> Java y otros
+ - Web -> Next.js (desarrollo), Supabase (bbdd), Vercel (alojamiento), Hostinger (dominio y buzones correo), Cloudflare (seguridad y rendimiento en internet)
+ - Pasarela de pagos -> Stripe
+ - Chatbot -> Make.com + nodo Perplexity para investigación profunda + nodo Claude Haiku 3.5 para comunicación con usuario
+ - Sistemas de predicción -> modelos predictivos de machine learning básicos (regresión lineal, XGBoost, Random Forest...)
+ - Sistemas de recomendación -> N8N + nodo Perplexity para investigación profunda + nodo Claude Sonnet 4.6 para comunicación con usuario y elección basada en datos extraídos por el nodo Perplexity
+ - Panel inversión -> Next.js + Vercel mediante APIs, webhooks y embed codes de eToro, Revolut o MyInvestor
 
 ---
 
