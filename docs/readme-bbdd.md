@@ -28,7 +28,7 @@ GASTO.id_categoria → CATEGORIA.id_categoria con ON DELETE RESTRICT: no se pued
 Integración con una aplicación Java
 Esta base de datos está diseñada para ser consumida desde una aplicación Java de escritorio. La integración se haría mediante JDBC (Java Database Connectivity), el estándar de Java para conectarse a bases de datos relacionales.
 El flujo de conexión sería el siguiente:
-java// Ejemplo de conexión JDBC a la base de datos gestorfiscal
+Ejemplo de conexión JDBC a la base de datos gestorfiscal
 String url = "jdbc:mysql://localhost:3306/gestorfiscal";
 String user = "root";
 String password = "contraseña";
