@@ -16,9 +16,11 @@ GASTO — gastos registrados con justificante
 
 Diagrama E/R
 El diseño de la base de datos está documentado en un diagrama Entidad-Relación que muestra las 5 entidades, sus atributos, claves primarias, claves foráneas y las cardinalidades de cada relación.
-Mostrar imagen
+
 Scripts SQL
-ArchivoContenido01_create_tables.sqlCreación de la base de datos y las 5 tablas con todas sus restricciones02_insert_data.sql5 clientes, 6 facturas, 9 líneas, 6 categorías y 10 gastos de ejemplo03_consultas.sql7 consultas reales con SELECT, JOIN, GROUP BY, WHERE y UNION
+01_create_tables.sql ->   Creación de la base de datos y las 5 tablas con todas sus restricciones
+02_insert_data.sql -> 5 clientes, 6 facturas, 9 líneas, 6 categorías y 10 gastos de ejemplo03_consultas.sql -> 7 consultas reales con SELECT, JOIN, GROUP BY, WHERE y UNION
+
 Consultas destacadas
 La consulta más relevante desde el punto de vista fiscal es el resumen de IVA trimestral, que compara el IVA cobrado en facturas con el IVA pagado en gastos deducibles — la base del modelo 303 que todo autónomo presenta a Hacienda:
 SELECT 'IVA repercutido' AS concepto, SUM(iva) AS total_iva
